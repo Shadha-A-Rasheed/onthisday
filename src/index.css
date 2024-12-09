@@ -1,0 +1,25 @@
+.title-date
+{
+    font-size: 25px;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+.title-date:hover, .ref:hover
+{
+    text-decoration: underline;
+}
+
+.title-date:visited, .ref:visited  
+{
+    color: brown;
+    text-decoration: underline;
+}
+
+.ref
+{
+    color: black;
+    font-style: italic;
+    text-decoration: none;
+}
